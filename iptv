@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJAB5AAB.jpg" tvg-country="IN" tvg-url="" group-title="",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" tvg-country="IN" tvg-url="" group-title="Music",7S Music
