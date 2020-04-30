@@ -1,290 +1,59 @@
-
-
-
-#EXTINF:0, MH1 News
-http://80.243.182.106:8080/mh1/mh1news/index.m3u8
-
-#EXTINF:0, Khabrayn Abhi Tak
-http://edge-ind.inapcdn.in:1935/berry/latest.stream_aac/playlist.m3u8
-
-#EXTINF:0, 777 News/DNN
-http://80.243.182.106:8080/777/777news/index.m3u8
-
-#EXTINF:0, Smachar Plus
-http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream/playlist.m3u8
-
-#EXTINF:0, Day andNight News
-http://edge-ap2.cloudfrontcdn.in:1935/vivo/dana.stream_aac/playlist.m3u8
-
-#EXTINF:0, News Nation
-http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
-
-#EXTINF:0, Sky News
-mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k
-
-#EXTINF:0, DD News
-http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
-
-#EXTINF:0, India Vision
-http://live.wmncdn.net/indiavisiontv/db65322988fe2be4bc40b7175de75c0e.sdp/playlist.m3u8
-
-#EXTINF:0, DD Raja Saba
-http://164.100.31.234/hls-live/livepkgr/_definst_/rstvlive/rstvlive.m3u8
-
-#EXTINF:0, Janta TV
-http://jlive.itv.net.in:1935/jantatv/myStream.sdp/playlist.m3u8
-
-#EXTINF:0, Media One
-http://live.wmncdn.net/mediaonetv/bf483c577478066127ebec1e06b7f690.sdp/playlist.m3u8
-
-#EXTINF:0, MathruBhumi News
-http://d2efse2o46g8jb.cloudfront.net/live/smil:mnews.smil/playlist.m3u8
-
-#EXTINF:0, Shiri News
-http://live.wmncdn.net/shrinewstv/e2c1680f2177d9647a218609a3a2fd5e.sdp/playlist.m3u8
-
-#EXTINF:0, Sadhna News
-http://edge-ind.inapcdn.in:1935/berry/sfmacb4.stream_aac/playlist.m3u8
-
-#EXTINF:0, TV One
-http://pitelevision.com:1935/pitelevision/tvone3_360p/playlist.m3u8
-
-#EXTINF:0, Tv One link 2
-http://cdn.ebound.tv:1935/tv/tvoneglobal/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, HBO
-http://pitelevision.com:1935/pitelevision/hbo23/playlist.m3u8
-
-#EXTINF:0, Play TV
-http://cdn.ebound.tv:1935/tv/playtv/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Star Gold
-http://cdn.ebound.tv:1935/tv/stargold/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Punjab TV
-http://pitelevision.com:1935/pitelevision/punjabtv3_360p/playlist.m3u8
-
-#EXTINF:0, Mehran TV
-http://pitelevision.com:1935/pitelevision/mehran3_360p/playlist.m3u8
-
-#EXTINF:0, Vibe TV
-http://cdn.ebound.tv:1935/tv/nvibe/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Nick
-http://streamer27.eboundservices.com:1935/tv/nick/playlist.m3u8
-
-#EXTINF:0, Apna TV
-http://cdn.ebound.tv:1935/tv/apna/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Colors TV
-http://cdn.ebound.tv:1935/tv/colors/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Style 360
-http://cdn.ebound.tv:1935/tv/style360/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Times TV
-http://cdn.ebound.tv:1935/tv/times/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Indus Vision
-http://pitelevision.com:1935/pitelevision/indus3_360p/playlist.m3u8
-
-#EXTINF:0, Gawahi TV
-http://cdn.ebound.tv:1935/tv/gawahi/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Dekho TV
-http://54.243.231.64:1935/live/dekhotv.mp4/playlist.m3u8
-
-#EXTINF:0, Life TV
-http://cdn.ebound.tv:1935/tv/lifetv/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, G1 TV
-http://cdn.ebound.tv:1935/tv/g1tv/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, STAR PLUS
-http://livestream.dodear.com:1935/tv/starplus/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, DD Punjabi
-http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
-
-#EXTINF:0, Star Maza
-http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
-
-#EXTINF:0, Care World TV
-http://live.careworldtv.com/live/careworld/playlist.m3u8
-
-#EXTINF:0, Zee Smile
-http://streamer27.eboundservices.com:1935/tv/zeecinema/playlist.m3u8
-
-#EXTINF:0, Tamilian TV
-http://38.96.175.192:1943/live/tamilantelevision1/playlist.m3u8
-
-#EXTINF:0, India TV
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-
-#EXTINF:0, Aryan TV
-http://edge-ind.inapcdn.in:1935/berry/smarts2.sdp/playlist.m3u8
-
-#EXTINF:0, ETV Marathi
-http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
-
-#EXTINF:0, Namma TV
-http://studiosystem.co.in:1935/live/namma.stream/playlist.m3u8
-
-#EXTINF:0, Navi Mumbai TV
-http://edge-ind.inapcdn.in:1935/hydra/nmtv.sdp_aac/playlist.m3u8
-
-#EXTINF:0, Sudharshan TV
-http://live.wmncdn.net/sudarshantv/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
-
-#EXTINF:0, Captin TV
-http://edge.purplestream.com/live/captain/amlst:captaintv/playlist.m3u8
-
-#EXTINF:0, Samaya 24×7
-http://edge.purplestream.com/live/samtv/amlst:samayatv/playlist.m3u8
-
-#EXTINF:0, Discovery
-http://cdn.ebound.tv:1935/tv//discovery/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Movies
-http://cdn.ebound.tv:1935/tv/movie/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, HBO Movies
-http://cdn.ebound.tv:1935/tv/hbo/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, English Movies
-http://streamer27.eboundservices.com:1935/tv/starmovies/playlist.m3u8
-
-#EXTINF:0, Star Movies
-http://pitelevision.com:1935/pitelevision/starmovies3/playlist.m3u8
-
-#EXTINF:0, Film World
-http://pitelevision.com:1935/pitelevision/filmworld3/playlist.m3u8
-
-#EXTINF:0, Play Max TV
-http://cdn.ebound.tv:1935/tv/playtv/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Play Max 2
-http://pitelevision.com:1935/pitelevision/playmax3_360p/playlist.m3u8
-
-#EXTINF:0, 8 XM
-http://cdn.ebound.tv:1935/tv/8xm/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Jalwa
-http://cdn.ebound.tv:1935/tv/jalwa/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Indus Music
-http://pitelevision.com:1935/pitelevision/indusmusic3_360p/playlist.m3u8
-
-#EXTINF:0, EMax
-http://cdn.ebound.tv:1935/tv/emax/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, National Geographic
-http://cdn.ebound.tv:1935/tv/nationalgeographic/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Cartoon Network
-http://80.243.182.106:8080/cartoonn002/cartoon002/index.m3u8
-
-#EXTINF:0, Pogo
-http://cdn.ebound.tv:1935/tv/pogo/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, iKid
-http://cdn.ebound.tv:1935/tv/ikid/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Nick
-http://cdn.ebound.tv:1935/tv/nick/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Zaiqa TV
-http://cdn.ebound.tv:1935/tv/zaiqa/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Masala TV
-http://cdn.ebound.tv:1935/tv/masalatv/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Peace TV
-http://cdn.ebound.tv:1935/tv/peacetv/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Peace TV Urdu
-rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4×3-sdh_1
-
-#EXTINF:0, QTV
-http://cdn.ebound.tv:1935/tv/qtv/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Madni Channel
-http://cdn.ebound.tv:1935/tv/madani/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Mecca TV
-http://cdn.ebound.tv:1935/tv/mecca/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Raah TV
-http://cdn.ebound.tv:1935/tv/raahtv/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Hadi TV
-http://cdn.ebound.tv:1935/tv/hadi/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Minhaaj TV
-http://cdn.ebound.tv:1935/tv/minhajtv/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Madina TV
-http://cdn.ebound.tv:1935/tv/madina/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:0, Madina TV 2
-http://202.125.132.37:1935/pitelevision/madina.smil/samitv.ga.m3u8
-
-#EXTINF:0, Such TV
-http://cdn.ebound.tv:1935/tv/suchtv/playlist.m3u8
-
-#EXTINF:0, Islam TV
-rtsp://wowza04.sharp-stream.com/islamtv/islamtv
-
-#EXTINF:0, Paigham TV
-http://125.209.77.130:1935/live/livestream1/playlist.m3u8
-
-#EXTINF:-1, Gaz
-http://103.26.115.180:1935/live/bh_gazi/playlist.m3u8
-  
-#EXTINF:-1, BTV World
-http://103.26.115.180:1935/live/bh_btv_world/playlist.m3u8
-  
-#EXTINF:-1,ATN World
-http://103.26.115.180:1935/live/bh_atn_bangla/playlist.m3u8
-  
-#EXTINF:-1,ATN News
-http://103.26.115.180:1935/live/bh_atn_news/playlist.m3u8
-  
-#EXTINF:-1, Desh TV
-http://103.26.115.180:1935/live/bh_bangla_vision/playlist.m3u8
-  
-#EXTINF:-1, NTV
-http://103.26.115.180:1935/live/bh_ntv/playlist.m3u8
-  
-#EXTINF:-1, Jamuna
-http://103.26.115.180:1935/live/bh_jamuna/playlist.m3u8
-  
-#EXTINF:-1, Eksushay
-http://103.26.115.180:1935/live/bh_ekushay/playlist.m3u8
-  
-#EXTINF:-1,Channel 9
-http://103.26.115.180:1935/live/bh_channel9/playlist.m3u8
-  
-#EXTINF:-1, Channel I
-http://103.26.115.180:1935/live/bh_channeli/playlist.m3u8
-  
-#EXTINF:-1, Independent
-http://103.26.115.180:1935/live/bh_independent/playlist.m3u8
-  
-#EXTINF:-1, Channel 24
-http://103.26.115.180:1935/live/bh_channel24/playlist.m3u8
-  
-#EXTINF:-1, Somoy
-http://103.26.115.180:1935/live/bh_somoy/playlist.m3u8
-  
-#EXTINF:-1,Gazi TV
-http://103.26.115.180:1935/live/bl_gazi/playlist.m3u8
-  
-#EXTINF:-1, Massranga
-http://103.26.115.180:1935/live/bl_maasranga/playlist.m3u8
-  
-#EXTINF:-1, Boishaki
-http://103.26.115.180:1935/live/bh_boishakhi/playlist.m3u8
-  
-#EXTINF:-1, RTV
-http://103.26.115.180:1935/live/bh_rtv/playlist.m3u8
+#EXTM3U
+#EXTINF:0,5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
+#EXTINF:0,5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
+#EXTINF:0,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
+#EXTINF:0,BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0,Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:0,Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:0,EWTN Canada
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+#EXTINF:0,ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:0,IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
+#EXTINF:0,Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:0,Miracle Channel
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+#EXTINF:0,Miracle Channel
+https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
+#EXTINF:0,Montreal Greek TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:0,NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:0,Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:0,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:0,QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:0,Salt + Light Television
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:0,Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:0,Sur Sagar TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:0,Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0,Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:0,Tele-V
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:0,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0,Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:0,TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:0,TÈlÈ-QuÈbec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
